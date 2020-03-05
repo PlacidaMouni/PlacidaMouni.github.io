@@ -1,0 +1,68 @@
+#entete1{
+    background-color: yellow;
+    height: 10px;
+}
+#entete2{
+    height: 50px;
+}
+li{
+    display: inline-block;
+    padding: 10px;
+    font-style: 70px;
+}
+a{
+    text-decoration: none;
+    color: black;
+}
+
+#accueil{
+    background-image: url('./Images/TDM2.jpg');
+    background-repeat: no-repeat;
+    background-position: center;
+    background-size: cover;
+    height: 750px;
+    margin-bottom: 0px;
+}
+.v{
+    display: inline-block;
+    padding: 30px;
+    height: 30px;
+    width: 70px;
+    border-radius: 10px 10px 10px 10px;
+    border-style: solid;
+    border-color: black;
+    background-color: teal;
+    font-size: 20px;
+    font-family: Gabriola;
+    font-weight: bold;
+    margin: 60px;
+    text-align: center;
+    box-shadow:black 2px 2px 2px 2px;
+    color: white;
+}
+ul{
+    float: right;
+}
+h1, h3{
+    color: white;
+    text-align: center;
+}
+h1{
+    font-size: 75px;
+    font-family: Gabriola;
+}
+h3{
+    font-size: 35px;
+}
+#villes{
+    margin-top: 200px;
+}
+#logo{
+    height: 50px; 
+    width :50px 
+}
+
+#entete2{
+    display: flex;
+    justify-content: space-between;
+}
