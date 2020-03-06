@@ -16,7 +16,7 @@ a{
 }
 
 #accueil{
-    background-image: url('./Images/TDM2.jpg');
+    background-image: url('TDM2.jpg');
     background-repeat: no-repeat;
     background-position: center;
     background-size: cover;
